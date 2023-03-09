@@ -5,7 +5,7 @@
 <p align="center"><a href="https://t.me/My_profile_Art" target="_blank">
     <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
-  <a href="https://www.linkedin.com/still_missing" target="_blank">
+  <a href="www.linkedin.com/in/hexletart" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge">
   </a></p>
 
