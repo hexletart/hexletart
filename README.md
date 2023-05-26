@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-    <a href=mailto:iv.onishchenko@mail.ru>
+    <a href=mailto:hexletart@gmail.com>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3884FF,90:0032A8&height=120&section=footer&text=looking%20for%20a%20job&animation=fadeIn&fontColor=fff&fontSize=14&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
     </a>
 </div>
