@@ -55,6 +55,14 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
              title="Git" alt="Git"
              width="50" height="50"/></a>&nbsp;
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+             title="React" alt="React"
+             width="40" height="50"/></a>&nbsp;
+    <a href="https://redux.js.org/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"
+             title="Redux" alt="Redux "
+             width="40" height="50"/></a>&nbsp;
 </div>
 
 <div align="center">
