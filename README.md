@@ -47,10 +47,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
              title="JavaScript" alt="JavaScript"
              width="50" height="50"/></a>&nbsp;
-    <a href="https://eslint.org/" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg"
-             title="Eslint" alt="Eslint "
-             width="50" height="50"/></a>&nbsp;  
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
              title="Git" alt="Git"
