@@ -2,31 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3884FF,90:0032A8&height=190&section=header&text=Artem%20Pelikh&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=52&fontAlign=76&fontAlignY=40&descSize=16&descAlign=82.5&descAlignY=16"/>
 </div>
 
-<div style="display: flex; justify-content: center">
-    <div style="display: grid;
-    grid-template-columns: repeat(2, 50%); grid-column-gap: 10px;">
-      <a
-        href="https://t.me/My_profile_Art"
-        target="_blank"
-        style="height: fit-content; line-height: 0"
-      >
-        <img
-          src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&amp;logo=telegram&amp;logoColor=white"
-          alt="Telegram Badge"
-        />
-      </a>
-      <a
-        href="https://www.linkedin.com/in/hexletart"
-        target="_blank"
-        style="height: fit-content; line-height: 0"
-      >
-        <img
-          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
-          alt="Linkedin Badge"
-        />
-      </a>
-    </div>
-  </div>
+<p align="center"><a href="https://t.me/My_profile_Art" target="_blank">
+    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/hexletart" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge">
+  </a></p>
 
 <div align="center">
     <a href="https://github.com/hexletart?tab=repositories" target="_blank">
