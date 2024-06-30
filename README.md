@@ -73,6 +73,14 @@
       width="50"
       height="50" /></a
   >&nbsp;
+  <a href="https://sass-lang.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+      title="TypeScript"
+      alt="TypeScript"
+      width="50"
+      height="50" /></a
+  >&nbsp;
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
