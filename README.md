@@ -41,6 +41,14 @@
 <br />
 
 <div align="center">
+  <a href="https://www.figma.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+      title="Figma"
+      alt="Figma"
+      width="50"
+      height="50" /></a
+  >&nbsp;
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
@@ -57,19 +65,19 @@
       width="50"
       height="50" /></a
   >&nbsp;
-  <a href="https://www.figma.com/" target="_blank">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
-      title="Figma"
-      alt="Figma"
-      width="50"
-      height="50" /></a
-  >&nbsp;
   <a href="https://sass-lang.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"
       title="SASS"
       alt="SASS"
+      width="50"
+      height="50" /></a
+  >&nbsp;
+  <a href="https://sass-lang.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
+      title="Bootstrap"
+      alt="Bootstrap"
       width="50"
       height="50" /></a
   >&nbsp;
